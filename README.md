@@ -11,7 +11,7 @@
             I like games and making them, although I haven't finished any yet :p
             <br/>
             <br/>
-            My real name is Samuel Guedes and I'm 20 years old, currently studying Analysis and Systems Development.
+            My real name is Samuel Guedes and I'm 21 years old, currently studying Analysis and Systems Development.
         </p>
 </div>
 
